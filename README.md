@@ -1,9 +1,13 @@
 Motion control method
 
 Pose name
+
 hand up in 90 degrees = jump
+
 left legs up= walk left
+
 right legs down= walk right
+
 stands = do mothing
 
 
