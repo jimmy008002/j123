@@ -1,3 +1,7 @@
+demo game : https://jimmy008002.github.io/j123/
+
+please stand around 1.5m and also stand in the center of cam to do pose.
+
 Motion control method
 
 Pose name
